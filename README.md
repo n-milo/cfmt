@@ -1,5 +1,7 @@
 # cfmt
 
+Type-safe printing in C, kind of like [fmt](https://github.com/fmtlib/fmt) for C++. (Proof of concept)
+
 ## Features
 
 - Type-safe
